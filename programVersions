@@ -30,7 +30,7 @@
     ["GitURL"]="https://raw.githubusercontent.com/rservices/darkprograms/darkprograms/darksecurity/chat_server.lua",
     ["Version"]=4.26,
     ["Type"]="program",
-    ["Name"]="Outraged Security .INC  Client",
+    ["Name"]="Chat Server",
     ["Description"]="Outraged Security .INC Base Security Client",
     ["Author"]="Outraged Security .INC",
     ["Package"]="Chat",
