@@ -35,6 +35,15 @@
     ["Author"]="Outraged Security .INC",
     ["Package"]="Chat",
   },  
+["Chat_Client"]={
+    ["GitURL"]="https://raw.githubusercontent.com/rservices/darkprograms/darkprograms/darksecurity/chat_client.lua",
+    ["Version"]=4.26,
+    ["Type"]="program",
+    ["Name"]="Chat Relay",
+    ["Description"]="Emerald Wireless chat Relay",
+    ["Author"]="Outraged Security .INC",
+    ["Package"]="Chat",
+  },  
       ["Axiom"]={
     ["GitURL"]="https://raw.githubusercontent.com/nothjarnan/axiom/master/install.lua",
     ["Version"]=2.95,
